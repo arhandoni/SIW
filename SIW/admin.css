@@ -1,0 +1,30 @@
+/* CSS Document */
+#menu{
+		background:#172659;
+		height:30px;
+}
+
+#menu ul{
+		margin:0;
+		padding:0;
+}
+
+#menu ul.right{
+		float:right;
+}
+
+#menu ul li{
+		float:left;
+		list-style:none;
+}
+
+#menu ul li a{
+		display:block;
+		padding:8px 15px;
+		text-decoration:none;
+		color:#add;
+}
+
+#menu ul li a:hover{
+		background:#40569e;
+}
